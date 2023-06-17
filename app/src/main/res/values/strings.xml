@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVI Auth Clean</string>
+    <string name="main_page">You are logged in</string>
+</resources>

@@ -1,1 +1,1 @@
-# MVI-Auth-Clean
+Authorization example using MVI
